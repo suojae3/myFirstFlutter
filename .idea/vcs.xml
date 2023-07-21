@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/MyTestApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/flutterSDK" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/development/flutter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flutter/my_study_planner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitTesting" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gitTesting/gitfth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myFirstApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/무제 폴더 2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/잡동사니/Development/FinanceReactNative" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/잡동사니/Development/FlappySwift" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/잡동사니/Development/lil-widgets" vcs="Git" />
+  </component>
+</project>
